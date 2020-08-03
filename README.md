@@ -7,7 +7,7 @@ Saima Sajjad Soomro
 
 # Environment and Requirement
 
-*Programing Language: JAVA* 
+*Programing Language: JAVA 
 Database: MYSQL 
 IDE : NetBeans 8.2
 MYSQL Version: 8.0.21
