@@ -22,5 +22,7 @@ DBMS Semester Project
 * Connect the JDBC  Drivers
 * Change the Database setting like servername and password
  
+ 
+ video link : https://www.youtube.com/watch?v=cBIUUVzkW9I&feature=youtu.be
   
 
