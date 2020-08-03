@@ -21,6 +21,6 @@ DBMS Semester Project
 * Import Database Schema in MySQL Workbench run the file
 * Connect the JDBC  Drivers
 * Change the Database setting like servername and password
-  * Put 
+ 
   
 
